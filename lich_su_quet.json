@@ -1,0 +1,80 @@
+[
+  {
+    "ip": "192.168.1.1",
+    "mac": "00:c8:96:77:e4:48",
+    "ten_may": "AP-AX3000CV2-E449.lan",
+    "ping_ms": 4.0,
+    "port_mo": [
+      22,
+      80,
+      443
+    ],
+    "hdo": "Router/AP"
+  },
+  {
+    "ip": "192.168.1.4",
+    "mac": "f0:99:b6:ac:66:e1",
+    "ten_may": "iPhone.lan",
+    "ping_ms": 72.0,
+    "port_mo": [],
+    "hdo": "iOS/macOS"
+  },
+  {
+    "ip": "192.168.1.46",
+    "mac": "8a:f7:61:fa:9b:a1",
+    "ten_may": "Khong xac dinh",
+    "ping_ms": 0,
+    "port_mo": [],
+    "hdo": "Khong xac dinh"
+  },
+  {
+    "ip": "192.168.1.188",
+    "mac": "90:e1:7b:f2:2f:f1",
+    "ten_may": "KhanhThuong.lan",
+    "ping_ms": 72.0,
+    "port_mo": [],
+    "hdo": "Khong xac dinh"
+  },
+  {
+    "ip": "192.168.1.213",
+    "mac": "ca:7d:c5:69:e3:3f",
+    "ten_may": "Khong xac dinh",
+    "ping_ms": 56.0,
+    "port_mo": [],
+    "hdo": "Khong xac dinh"
+  },
+  {
+    "ip": "192.168.1.215",
+    "mac": "c8:a3:e8:b0:37:51",
+    "ten_may": "DESKTOP-GETFTFA.lan",
+    "ping_ms": 1.0,
+    "port_mo": [],
+    "hdo": "Windows"
+  },
+  {
+    "ip": "192.168.1.217",
+    "mac": "90:6a:94:cd:ac:af",
+    "ten_may": "NOMI-IPC-A22E-L.lan",
+    "ping_ms": 26.0,
+    "port_mo": [
+      80
+    ],
+    "hdo": "Windows"
+  },
+  {
+    "ip": "192.168.1.219",
+    "mac": "0e:bd:40:46:dd:29",
+    "ten_may": "Khong xac dinh",
+    "ping_ms": 0,
+    "port_mo": [],
+    "hdo": "Khong xac dinh"
+  },
+  {
+    "ip": "192.168.1.220",
+    "mac": "30:60:0a:0f:58:e5",
+    "ten_may": "AP-AX3000C-58E5.lan",
+    "ping_ms": 14.0,
+    "port_mo": [],
+    "hdo": "Router/AP"
+  }
+]

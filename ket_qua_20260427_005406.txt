@@ -1,0 +1,19 @@
+======================================================================
+  Tool Quet Mang - Simple Network Scanner
+======================================================================
+  Mang quet : 192.168.1.0/24
+  Thoi gian : 2026-04-27 00:54:06
+  Tong thiet bi: 9
+======================================================================
+
+  IP                 MAC                    Ten may                      Ping  HDH             Ports
+  ----------------- --------------------- ------------------------ -------  -------------- --------------------
+  192.168.1.1        00:c8:96:77:e4:48      AP-AX3000CV2-E449.lan      4.0 ms  Router/AP       [22, 80, 443]
+  192.168.1.4        f0:99:b6:ac:66:e1      iPhone.lan                72.0 ms  iOS/macOS       []
+  192.168.1.46       8a:f7:61:fa:9b:a1      Khong xac dinh               0 ms  Khong xac dinh  []
+  192.168.1.188      90:e1:7b:f2:2f:f1      KhanhThuong.lan           72.0 ms  Khong xac dinh  []
+  192.168.1.213      ca:7d:c5:69:e3:3f      Khong xac dinh            56.0 ms  Khong xac dinh  []
+  192.168.1.215      c8:a3:e8:b0:37:51      DESKTOP-GETFTFA.lan        1.0 ms  Windows         []
+  192.168.1.217      90:6a:94:cd:ac:af      NOMI-IPC-A22E-L.lan       26.0 ms  Windows         [80]
+  192.168.1.219      0e:bd:40:46:dd:29      Khong xac dinh               0 ms  Khong xac dinh  []
+  192.168.1.220      30:60:0a:0f:58:e5      AP-AX3000C-58E5.lan       14.0 ms  Router/AP       []
