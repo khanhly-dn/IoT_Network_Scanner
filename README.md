@@ -132,6 +132,8 @@ python scanner.py 192.168.100.0/24 --ping
 <p align="center">
   <img width="750" alt="Kết quả Demo" src="https://github.com/khanhly-dn/IoT_Network_Scanner/blob/main/KQ_DEMO.png?raw=true" />
 </p>
+🎬 **Video hoạt động:** *https://drive.google.com/file/d/1G395lE1OFZ3vAfFdqbZliQLi1CdW4kU9/view?usp=sharing*
+
 
 ---
 
